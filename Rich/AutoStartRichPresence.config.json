@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "enableStartTime": true,
+        "clientID": "770624554158522398",
+        "largeImageKey": "5",
+        "smallImageKey": "4",
+        "smallImageText": "Playing Among Us 2",
+        "largeImageText": "Among Us 2",
+        "state": "Campaign Mode",
+        "details": "Brand New Sci-Fi Edition and much more!",
+        "experimentalRPCEventInjection": true
+    }
+}
